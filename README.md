@@ -7,6 +7,6 @@ A simple audiobook app made with flutter.
 
 
 ## How to run:
-1. git clone
+1. run `git clone https://github.com/Morgan11-tech/audiobook-app.git`
 2. Navigate to project directory, navigate to the `pubspec.yaml` file and run `pub upgrade`
-3. Run `main.dart`
+3. Run `main.dart` in the directory
